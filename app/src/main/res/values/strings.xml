@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">3X</string>
+    <string name="facebook_app_id">268193810220501</string>
+    <string name="make_coins">Coins</string>
+    <string name="action_sign_in_short">Бүртгүүлэх</string>
+    <string name="email">Е майл хайг</string>
+    <string name="enter_lucky_number">9 оронтой азын дугаар оруулна уу</string>
+    <string name="minimum_password">Нууц үг хэтэрхий богинохон байна. 6 тэмдэгтээс их байх ёстой!</string>
+    <string name="auth_failed">Бүртгэл олдсонгүй</string>
+    <string name="qrcode_read_sms">QR code-г уншуулна уу</string>
+    <string name="enter_password">Нууц үгээ оруулна уу</string>
+    <string name="change_email">Е майл өөрчлөх</string>
+    <string name="change_password">Нууц үг солих</string>
+    <string name="send_password_reset_email">Нууц үг солих хүсэлт Е майл-ээр илгээсэн</string>
+    <string name="remove_user">Хэрэглэгчээ устгах</string>
+    <string name="new_pass">Шинэ нууц үг</string>
+    <string name="title_activity_profile">3 хүсэл</string>
+    <string name="title_activity_login">Нэвтрэх</string>
+    <string name="error">Алдаа:</string>
+    <string name="net_error">Интернет холболтоо шалгана уу</string>
+    <string name="error_user">Хэрэглэчийн мэдээлэл алдаатай байна Дахин нэвтэрч орно уу</string>
+    <string name="main_prize">Үндсэн хонжвор</string>
+    <string name="main_sponsors">Ивээн тэтгэгч</string>
+    <string name="count_reg_lottery">%d сугалаа бүртгэлтэй байна</string>
+    <string name="error_try_again">Алдаа гарлаа дараа дахин оролдоно уу</string>
+    <string name="no_lottery">Сугалааны qr code буруу байна</string>
+    <string name="already_reg_lottery">Сугалааны qr code аль хэдийн бүртгэлтэй байна</string>
+    <string name="hint_email">Е майл хайг оруулах</string>
+    <string name="hint_password">Нууц үг оруулах</string>
+    <string name="hint_name">Овог нэр</string>
+    <string name="successfully_reg">Амжилттай бүртгэгдлээ</string>
+    <string name="btn_login">Нэвтрэх</string>
+    <string name="error_qrcode_read">Qr code уншихад алдаа гарлаа</string>
+
+    <string name="btn_link_to_register">Бүртгүүлэх</string>
+
+    <string name="btn_link_to_login"> Нэвтрэх хэсэг рүү очих</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Нууц үг мартсан уу?</string>
+    <string name="login_with_google">Sign in with Google</string>
+
+    <string name="btn_reset_password">Нууц үг шинэчлэх</string>
+    <string name="btn_back"><![CDATA[<< Буцах]]></string>
+    <string name="hint_new_email">Шинэ Е майл хаяг</string>
+    <string name="btn_change">Өөрчлөх</string>
+    <string name="btn_send">Илгээх</string>
+    <string name="btn_remove">Устгах</string>
+    <string name="btn_sign_out">Гарах</string>
+    <string name="coin">Зоос</string>
+
+    <string name="lbl_forgot_password">Нууц үгээ мартсан уу?</string>
+    <string name="forgot_password_msg">Тань руу нууц үг солих хүсэлттэй Е майл явуулах болно.</string>
+    <string name="title_activity_main">Үндсэн нүүр</string>
+    <string name="already_registered_number">Таны оруулсан дугаар бүртгэгдсэн байна\nДахин өөр дугаар сонгож оруулна уу</string>
+    <string name="walk_one">3 хүсэл\nХамгийн хялбар сугалаа</string>
+    <string name="walk_two">Таньд 3 боломж\n1. дор хаяж өдөр болгон 3 ялагч\n2. Азын 9 оронтой тоог оруулна\n3. Бооцоогоо хэд ч нугалж аваарай</string>
+    <string name="walk_three">Найдвартай\nХамгаалалттай\nНууцлалтай</string>
+    <string name="skip">SKIP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_qr_code_reader">QR сугалаа уншуулах</string>
+    <string name="title_activity_lottery_reg_ac">Азын дугаар</string>
+</resources>

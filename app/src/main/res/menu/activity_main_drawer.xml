@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_menu_my_lotteries"
+            android:icon="@drawable/ic_menu_my_gift"
+            android:title="Миний сугалаа" />
+        <item
+            android:id="@+id/nav_menu_gift_lib"
+            android:icon="@drawable/ic_menu_gift_lib"
+            android:title="Бэлгийн сан" />
+        <item
+            android:id="@+id/nav_menu_winners"
+            android:icon="@drawable/ic_menu_winner"
+            android:title="Ялагчид" />
+
+        <item
+            android:id="@+id/nav_menu_buy_lottery"
+            android:icon="@drawable/ic_menu_add_lottery"
+            android:title="Сугалаа авах" />
+        <item
+            android:id="@+id/nav_menu_ads_videos"
+            android:icon="@drawable/ic_menu_ads"
+            android:title="Зоос цуглуулах" />
+        <item
+            android:id="@+id/nav_menu_gift_card"
+            android:icon="@drawable/ic_card_giftcard"
+            android:title="Бэлгийн карт" />
+
+        <item
+            android:id="@+id/nav_menu_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Тохиргоо" />
+    </group>
+
+    <item android:title="Холбоос">
+        <menu>
+            <item
+                android:id="@+id/nav_menu_profile"
+                android:icon="@drawable/ic_menu_account"
+                android:title="Хэрэглэгч" />
+
+            <item
+                android:id="@+id/nav_menu_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_menu_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="Бидэнтээ холбогдох" />
+            <item
+                android:id="@+id/nav_menu_logout"
+                android:icon="@drawable/ic_menu_logout"
+                android:title="Гарах" />
+        </menu>
+    </item>
+
+</menu>

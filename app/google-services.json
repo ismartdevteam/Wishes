@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331357439568",
+    "firebase_url": "https://threewishes-1337.firebaseio.com",
+    "project_id": "threewishes-1337",
+    "storage_bucket": "threewishes-1337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331357439568:android:a56e4b7be9b9253d",
+        "android_client_info": {
+          "package_name": "ismartdev.mn.wishes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331357439568-j5dve8nbe4dh5mdu412q4rcgb0jegf11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ismartdev.mn.wishes",
+            "certificate_hash": "748E48F913958E92B96CEFF756631369EA65ECF1"
+          }
+        },
+        {
+          "client_id": "331357439568-sbjlmgrmeksc023ckmt4ollmpi11faen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9otE0qeVlaKcJlaE1JArpkmqL_P21Le0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331357439568-sbjlmgrmeksc023ckmt4ollmpi11faen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
