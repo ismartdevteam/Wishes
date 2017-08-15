@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="120dp"
     android:layout_height="wrap_content"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:gravity="center"
     android:orientation="vertical"
     android:padding="10dp">
@@ -12,14 +12,14 @@
         android:id="@+id/sponsor_item_image"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        app:border_color="@color/cardview_dark_background"
-        app:border_width="1dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/ic_main_coin" />
+        android:src="@drawable/ic_main_coin"
+        app:border_color="@color/cardview_dark_background"
+        app:border_width="1dp" />
 
     <TextView
         android:id="@+id/sponsor_item_text"
-        android:textStyle="bold"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textStyle="bold" />
 </LinearLayout>
